@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.gabbagnale.convertergenerator.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.gabbagnale.convertergenerator.MyBundle
 
 class MyApplicationService {
 
